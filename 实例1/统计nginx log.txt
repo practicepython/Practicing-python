@@ -1,7 +1,7 @@
-����ͳ��nginx access log
-1��ͳ����־�ļ������ֶεķ��ʴ�����
-2��ͳ�Ƹ���ip����url�Ĵ�����
-3��ͳ����־�ļ�����״̬(404/200��)��
-4��ͳ�Ƹ���ip post/get url�Ĵ�����
-5��ͳ����־user agent��
-6��ͳ�ƽ����ʽ�������
+需求：统计nginx access log
+1、统计日志文件各个字段的访问次数。
+2、统计各个ip访问url的次数。
+3、统计日志文件访问状态(404/200等)。
+4、统计各个ip post/get url的次数。
+5、统计日志user agent。
+6、统计结果json格式化输出。
